@@ -2,3 +2,4 @@ flask
 rich
 requests
 gunicorn
+flask_cors
